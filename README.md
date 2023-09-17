@@ -10,7 +10,7 @@
 <h3 align="left">IDE</h3>
 <a href ="" target ="_blank"><img src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 
-I created these examples so that you will have knowledge about some advanced Java language concepts, such as Annotation Processing and other wonderful examples.
+**I created these examples so that you will have knowledge about some advanced Java language concepts, such as Annotation Processing and other wonderful examples.**
 
 
 - 🔭 I’m currently working on this page. 
