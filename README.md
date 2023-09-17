@@ -27,7 +27,7 @@
   
 - ⚡<a href ="">**XML Serialzable**</a>
   
-- ⚡<a href ="">**Multi Thread Synchronized**</a
+- ⚡<a href ="">**Multi Thread Synchronized**</a>
 
 
 
