@@ -18,11 +18,11 @@
 - ⚡**Annotation Processing**
 
 - ⚡**Decorator Pattern**
-- 
+ 
 - ⚡**JSON Serialzable**
-- 
+  
 - ⚡**Multi Thread Synchronized**
-- 
+  
 - ⚡**XML Serialzable**
 
 
