@@ -10,7 +10,7 @@
 <h3 align="left">Contact with me</h3>
 <a href ="" target ="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <h3 align="left">IDE</h3>
-<a href ="" target ="_blank"><img src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+<a href ="https://www.jetbrains.com/idea/features/" target ="_blank"><img src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 
 
 
