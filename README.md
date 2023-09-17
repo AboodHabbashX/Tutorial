@@ -10,10 +10,17 @@
 <h3 align="left">IDE</h3>
 <a href ="" target ="_blank"><img src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 
+
+
 **I created these examples so that you will have knowledge about some advanced Java language concepts, such as Annotation Processing and other wonderful examples.**
 
+<h2 align="left">Tutorials</h2>
+- ⚡Annotation Processing
+- ⚡Decorator Pattern
+- ⚡JSON Serialzable
+- ⚡Multi Thread Synchronized
+- ⚡XML Serialzable
 
-- 🔭 I’m currently working on this page. 
 
 
 
