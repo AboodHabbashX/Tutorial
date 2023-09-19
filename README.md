@@ -12,9 +12,7 @@
 <h3 align="left">IDE</h3>
 <a href ="https://www.jetbrains.com/idea/features/" target ="_blank"><img src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 
-
-
-
+<p></p>
 **I created these examples so that you will have knowledge about some advanced Java language concepts, such as Annotation Processing and other wonderful examples.**
 
 <h2 align="left">Tutorials</h2>
@@ -28,7 +26,11 @@
 - ⚡<a href ="https://github.com/AboodHabbashX/Tutorial/tree/main/XMLSerialzable/com/Abood">**XML Serialzable**</a>
   
 - ⚡<a href ="https://github.com/AboodHabbashX/Tutorial/tree/main/MultiThreads%20Synchronized/com/Abood">**Multi Thread Synchronized**</a>
+
 - ⚡<a href ="https://github.com/AboodHabbashX/Tutorial/tree/main/SQLConnection/com/Abood">**SQL Connection**</a>
+
+- ⚡<a href ="https://github.com/AboodHabbashX/Tutorial/tree/main/Logger/com/Abood">**Logger**</a>
+
 
 
 
