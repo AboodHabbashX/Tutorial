@@ -14,6 +14,10 @@
 
 **I created these examples to make Java concepts easier for you, such as Annotation Processing and Design Patterns and more**
 
+## Badges
+<img alt="Bower Version" src="https://img.shields.io/bower/v/badges">
+
+## Tuutorials
 
 - ⚡<a href ="https://github.com/AboodHabbashX/Tutorial/tree/main/AnnotationProcessingExamples/com/Abood">**Annotation Processing**</a>
 
