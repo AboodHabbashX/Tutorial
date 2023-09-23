@@ -12,6 +12,8 @@
 <h3 align="left">IDE</h3>
 <a href ="https://www.jetbrains.com/idea/features/" target ="_blank"><img src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 
+## Info
+
 **I created these examples to make Java concepts easier for you, such as Annotation Processing and Design Patterns and more**
 
 ## Badges
