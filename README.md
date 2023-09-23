@@ -12,7 +12,7 @@
 <h3 align="left">IDE</h3>
 <a href ="https://www.jetbrains.com/idea/features/" target ="_blank"><img src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 
-**II created this simple pattern to make it easier for me to color your Terminal**
+**I created these examples to make Java concepts easier for you, such as Annotation Processing and Design Patterns and more**
 
 <h2 align="left">Futures</h2>
 
