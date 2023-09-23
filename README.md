@@ -15,8 +15,7 @@
 **I created these examples to make Java concepts easier for you, such as Annotation Processing and Design Patterns and more**
 
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+<img alt="Bower" src="https://img.shields.io/bower/l/:packageName">
 
 <h2 align="left">Tutorials</h2>
 
