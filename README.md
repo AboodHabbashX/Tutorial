@@ -30,7 +30,7 @@
 
 - ⚡<a href ="https://github.com/AboodHabbashX/Tutorial/tree/main/Logger/com/Abood">**Logger**</a>
 
-- ⚡<a href ="https://github.com/AboodHabbashX/Tutorial/tree/main/Logger/com/Abood">**Proxy Pattern**</a>
+- ⚡<a href ="https://github.com/AboodHabbashX/Tutorial/tree/main/ProxyPattern/com/Abood">**Proxy Pattern**</a>
 
 
 
